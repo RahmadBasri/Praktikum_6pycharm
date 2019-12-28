@@ -25,7 +25,10 @@
 ![view 2](https://user-images.githubusercontent.com/57025005/71545442-a4489780-29bd-11ea-883a-f31890990b90.PNG)
 
 * main.py
+
 ![main py](https://user-images.githubusercontent.com/57025005/71545451-b1fe1d00-29bd-11ea-8f9e-f4536a93479e.PNG)
 
+
 DAN OUTPUTNYA:
+
 ![output](https://user-images.githubusercontent.com/57025005/71545457-c6dab080-29bd-11ea-85e8-2d2c5f6b1c42.PNG)

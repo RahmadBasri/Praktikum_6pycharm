@@ -10,21 +10,21 @@
    di dalam Package View berisi = _init_.py  ,  input_nilai.py , view_nilai.py
 
  
- * Daftar Nilai
+ * Buat Daftar Nilai Seperti Berikut=
 
 ![daftar nilai py](https://user-images.githubusercontent.com/57025005/71545409-4a47d200-29bd-11ea-88d2-84f43a16f3ef.PNG)
 
-* Input nilai
+* Buat Input nilai Seperti Berikut=
 
 ![input nilai 1](https://user-images.githubusercontent.com/57025005/71545433-8da24080-29bd-11ea-8baa-1f47a9ecdf45.PNG)
 ![input](https://user-images.githubusercontent.com/57025005/71545438-9430b800-29bd-11ea-9335-009f0cd4f88d.PNG)
 
-* view
+* Buat view seperti berikut=
 
 ![view 1](https://user-images.githubusercontent.com/57025005/71545441-a1e63d80-29bd-11ea-9bf7-e14f8fed9455.PNG)
 ![view 2](https://user-images.githubusercontent.com/57025005/71545442-a4489780-29bd-11ea-883a-f31890990b90.PNG)
 
-* main.py
+* dan buat main.py di luar package seperti berikut=
 
 ![main py](https://user-images.githubusercontent.com/57025005/71545451-b1fe1d00-29bd-11ea-8f9e-f4536a93479e.PNG)
 
